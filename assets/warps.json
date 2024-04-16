@@ -281,6 +281,11 @@
         "DisplayText": "warp.tide-pools",
         "Location": "Beach",
         "Tile": "87, 26"
+      },
+      {
+        "DisplayText": "warp.elliots",
+        "Location": "Beach",
+        "Tile": "49,11"
       }
     ],
     "warp-section.desert": [
