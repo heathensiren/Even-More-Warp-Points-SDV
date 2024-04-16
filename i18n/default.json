@@ -147,9 +147,8 @@
   "warp.blacksmith": "Clint's Blacksmithing",
   "warp.willy-shop": "Willy's Shop",
   "warp.community-center": "Community Center",
-  "warp.hike-trail": "Hike Trail",
   "warp.ridgeside-plaza": "Ridgeside Plaza",
-  "warp.foraging-forest": "Foraging Forest",
+  "warp.island-farm": "Island Farm",
 
   // town
   "warp-section.town": "Town",
@@ -179,6 +178,7 @@
   "warp.sprite": "Sprite Spring",
   "warp.aurora-vineyard": "Aurora Vineyard",
   "warp.sophia": "Sophia's Vineyard",
+  "warp.foraging-forest": "Foraging Forest",
 
   // mountain
   "warp.adventurers-guild": "Adventurer's Guild",
@@ -222,11 +222,11 @@
   "warp.ridge-falls": "Ridge Falls",
   "warp.spirit-realm": "Spirit Realm",
   "warp.summit-farm": "Summit Farm",
+  "warp.hike-trail": "Hike Trail",
 
   // island
   "warp-section.island": "Ginger Island",
   "warp.forge": "Forge",
-  "warp.island-farm": "Island Farm",
   "warp.dwarf-shop": "Volcano Dwarf Shop",
   "warp.field-office": "Field Office",
   "warp.leo-house": "Leo's House",
