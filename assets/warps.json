@@ -91,19 +91,14 @@
         "Condition": "!IS_JOJA_MART_COMPLETE"
       },
       {
-        "DisplayText": "warp.hike-trail",
-        "Location": "Custom_Ridgeside_RSVTheHike",
-        "Tile": "38, 27"
-      },
-      {
         "DisplayText": "warp.ridgeside-plaza",
         "Location": "Custom_Ridgeside_RidgesideVillage",
         "Tile": "114, 45"
       },
       {
-        "DisplayText": "warp.foraging-forest",
-        "Location": "Custom_ForestWest",
-        "Tile": "152,25"
+        "DisplayText": "warp.island-farm",
+        "Location": "IslandWest",
+        "Tile": "77, 41"
       }
     ],
     "warp-section.town": [
@@ -232,6 +227,11 @@
         "DisplayText": "warp.sophia",
         "Location": "Custom_BlueMoonVineyard",
         "Tile": "28, 32"
+      },
+      {
+        "DisplayText": "warp.foraging-forest",
+        "Location": "Custom_ForestWest",
+        "Tile": "152,25"
       }
     ],
     "warp-section.mountain": [
@@ -383,15 +383,14 @@
         "DisplayText": "warp.summit-farm",
         "Location": "Custom_Ridgeside_SummitFarm",
         "Tile": "18, 47"
+      },
+      {
+        "DisplayText": "warp.hike-trail",
+        "Location": "Custom_Ridgeside_RSVTheHike",
+        "Tile": "38, 27"
       }
     ],
     "warp-section.island": [
-      {
-        "DisplayText": "warp.island-farm",
-        "Location": "IslandWest",
-        "Tile": "77, 41",
-        "Order": -1
-      },
       {
         "DisplayText": "warp.dwarf-shop",
         "Location": "VolcanoDungeon5",
